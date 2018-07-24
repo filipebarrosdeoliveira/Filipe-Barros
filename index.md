@@ -1,25 +1,65 @@
-## Welcome to GitHub Pages
+## Filipe Barros de Oliveira
 
-You can use the [editor on GitHub](https://github.com/filipebarrosdeoliveira/Filipe-Barros/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+iOS Software Engineer
+Developer Programmer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Habilidades
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- iOS Developer since 2015
+- Swift
+- iOS Desing
+- Metodologias Ágeis: SCRUM/XP
+- Engenharia de Software
+- Xcode
+- Git
+- Linux
+- Cocoapods
+- Shell comand Linux
+- Integração com APIs Restful e JSON
+- Publicação, Genrenciamento e Manutenção de Apps para iOS
+- Programação Orientada a Objetos
+- Java
+- JavaScript
+- SQL
+- C
+- NetBeans
+- Node.js
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Formação Acadêmica
 
-- Bulleted
-- List
+Universidade Federal de Goiás
+Engenharia de Software
+2013/2016
 
-1. Numbered
-2. List
+Universidade Federal de Goiás
+Ciência da Computação
+2016/...
+
+## Cursos Complementares
+
+Curso de desenvolvimento iOS 9 
+Curso de desenvolvimento iOS 10
+Curso de desenvolvimento iOS 11
+Curso de desenvolvedor Node
+Desenvolvimento de aplicativos com Swift 4
+Swift, PHP & MySQL. User Sign Up, Sign In, Sign out 
+Jogos para iOS  com Xcode Swift e SpriteKit
+
+### Idioma 
+
+Inlges Avançado: B2/C1
+
+#### Ultimas Leituras
+
+Steve Jobs. A biografia
+O jeito Disney de encantar os clientes
+Como o Google funciona
+Ted Talks
+Uma breve história do tempo
+Swift Programe para iPhone e iPad
 
 **Bold** and _Italic_ and `Code` text
 
